@@ -1,5 +1,11 @@
 require "espnff_api/railtie"
+require "espnff_api/box_score"
+require "espnff_api/league"
+require "espnff_api/roster"
+require "espnff_api/scoreboard"
+require "espnff_api/standings"
 require 'rest-client'
+
 
 module EspnffApi
   class << self

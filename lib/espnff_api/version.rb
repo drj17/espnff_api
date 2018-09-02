@@ -1,3 +1,3 @@
 module EspnffApi
-  VERSION = '0.1.34'
+  VERSION = '0.0.1'
 end
